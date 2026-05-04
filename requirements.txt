@@ -1,0 +1,5 @@
+streamlit
+chromadb
+ollama
+wikipedia-api
+langchain-text-splitters
